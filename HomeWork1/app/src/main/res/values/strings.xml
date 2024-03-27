@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeWork1</string>
+    <!-- Add other string resources here as needed -->
+    <string name="profile_image_description">Profile image</string>
+</resources>
